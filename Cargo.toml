@@ -1,0 +1,11 @@
+[package]
+name = "find_digits"
+version = "0.0.0"
+edition = "2021"
+rust-version = "1.80.0"
+authors = ["me"]
+readme = "README.md"
+documentation = "docs/"
+
+[dependencies]
+clap = { version = "4.5.13", features = ["derive"] }

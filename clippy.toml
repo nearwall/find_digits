@@ -1,0 +1,2 @@
+warn-on-all-wildcard-imports = true
+too-many-lines-threshold = 150
